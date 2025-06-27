@@ -1,0 +1,17 @@
+html,body{
+    background-color: #faebd7;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    border: 1px solid black;
+    height: 400px;
+    width: 300px;
+}
+
+ul{
+    list-style: none;
+}
+
