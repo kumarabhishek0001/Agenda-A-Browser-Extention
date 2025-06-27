@@ -1,0 +1,11 @@
+{
+    "name": "Agenda",
+    "version": "1.0.0",
+    "description": "Lists tasks to be completed ",
+    "manifest_version": 3,
+    "author": "AKJ",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Today's Task"
+    }
+}
