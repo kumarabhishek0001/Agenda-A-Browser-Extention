@@ -43,9 +43,10 @@ button{
 }
 
 #todo-input{
-    height: 22px;
+    height: 20px;
     border: none;
     border-radius: 5px;
+    padding: 2px 5px;
 }
 
 ul{
