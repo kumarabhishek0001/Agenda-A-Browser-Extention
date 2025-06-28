@@ -1,5 +1,5 @@
+//create an array named all task
+//store the all tasks in the array
+//fetch all task when button pressed
 
-
-//ul ko select karna h
-const listItemContainer = document.getElementById('list-item-container')
-console.log(listItemContainer)
+//add support for deleted button
